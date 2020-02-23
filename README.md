@@ -56,6 +56,10 @@ La idea de la máscara es, aprender como tenias pensado (convlstm o conv) una m�
 
 
 
+Las mascaras quebaprendas iguak forzar a que no Sean Todo Unos
+
+
+
 Añadir self-pretraining adivinando eventos o grayscale?
 
 Pensar cosas guays deeventos Como auperpoint
